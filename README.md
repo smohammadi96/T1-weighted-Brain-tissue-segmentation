@@ -16,7 +16,7 @@ T1-weighted segmentation models (Transformers): [Drive 1](https://drive.google.c
 
 T1-weighted segmentation models (Attention-unet): [Drive](https://drive.google.com/file/d/18LsqKVm-cs8V2aR01HEvnXo-bebo0Akq/view?usp=sharing)
 
-T1-weighted-generator: [Drive]()
+T1-weighted-generator: [Drive](https://drive.google.com/file/d/1tPFXAiXkm1hq0j4_wHP7U2mNr0s8ETsy/view?usp=sharing)
 
 PVTv2b3: [pvt_v2_b3](https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b3.pth)
 
