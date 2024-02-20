@@ -118,13 +118,3 @@ for A in A_dataset_test:
         # im.imwrite(img, py.join(save_dir, py.name_ext(A_img_paths_test[i])))
         i += 1
 print(np.mean(np.array(ps)))
-# save_dir = py.join(args.experiment_dir, 'samples_testing', 'B2A')
-# py.mkdir(save_dir)
-# i = 0
-# for B in B_dataset_test:
-#     B2A, B2A2B = sample_B2A(B)
-#     for B_i, B2A_i, B2A2B_i in zip(B, B2A, B2A2B):
-#         img = np.concatenate([B_i.numpy(), B2A_i.numpy(), B2A2B_i.numpy()], axis=1)
-#         im.imwrite(img, py.join(save_dir, py.name_ext(B_img_paths_test[i])))
-#         i += 1
-
